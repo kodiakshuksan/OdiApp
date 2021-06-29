@@ -25,7 +25,7 @@
 
 ## Usage-
 
-![before age-homepage](./assets/images/pic11.png)
+![before age-homepage](./assets/images/pic11.PNG)
 ![dog pic](./assets/images/Ody.png)
 
 ## Technologies Used-
